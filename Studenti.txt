@@ -1,0 +1,11 @@
+Emri : Albinis
+Mbiemri : Rudaku
+ID : 190204100025
+Fakulteti : Universiteti i Prishtinës, Fakulteti iShkencave Matematiko Natyrore
+Drejtimi : Shkenca Kompjuterike
+Lënda : Strukturë e të Dhënave
+Punuar në : Prill/Maj, 2020
+
+
+
+Shënim : Për të përdorur dhe ekzekutuar lojën së pari duhet që ti vendosni me një lokacion dhe të ndryshoni "pathin" (rrugën) e imazheve.
